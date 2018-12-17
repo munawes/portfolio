@@ -1,3 +1,19 @@
-body {
-  text-align: right;
+#img-logo {
+  width: 5%;
+}
+
+#hero {
+  text-align: center;
+}
+
+.flex {
+  display: flex;
+}
+
+.icon {
+  flex: 1;
+}
+
+.description {
+  flex: 2;
 }
